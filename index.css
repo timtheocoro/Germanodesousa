@@ -1,3 +1,7 @@
+body {
+    min-width: 340px;
+}
+
 .carre1 {
   width: 800px;
   height: 600px;
